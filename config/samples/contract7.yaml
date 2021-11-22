@@ -1,0 +1,10 @@
+apiVersion: cache.adamg.com/v1alpha1
+kind: Contract
+metadata:
+  name: contract-adam-21
+spec:
+  pagetype: "page"
+  pagetitle: "Adams new page 21"
+  pagespace: "CRYPTO"
+  pagebody: "New contract details"
+  

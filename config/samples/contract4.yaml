@@ -1,0 +1,7 @@
+apiVersion: cache.adamg.com/v1alpha1
+kind: Contract
+metadata:
+  name: contract-adam-102
+spec:
+  title: "Adams new page 102"
+  
